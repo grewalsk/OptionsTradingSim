@@ -41,10 +41,9 @@ streamlit run app.py
 ```
 
 <img width="1511" alt="image" src="https://github.com/user-attachments/assets/855cd0bf-925d-4e0b-867b-bbbec8cad16b" />
-![image](https://github.com/user-attachments/assets/d8c50f3d-1251-4c11-bb8c-3c72c27ad5ea)
-![image](https://github.com/user-attachments/assets/96bcf24c-7679-4975-ab40-7e404f317fa8)
-
-
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/dca16cbc-31be-43cf-abda-df0cd8bd8d31" />
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/2b2b7a09-fb0f-4304-8821-43e269a47453" />
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/769ef232-f1f8-48ae-8dc6-4bb7d334f127" />
 
 ## Mathematical Foundations
 
