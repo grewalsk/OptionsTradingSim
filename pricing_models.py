@@ -2,7 +2,6 @@
 
 import numpy as np
 from scipy.stats import norm
-import pandas as pd
 import streamlit as st
 
 def black_scholes_call(S, K, T, r, sigma):
