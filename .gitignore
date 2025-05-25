@@ -131,6 +131,9 @@ dmypy.json
 # Streamlit
 .streamlit/
 
+# Claude
+.claude/
+
 # API Keys and secrets
 secrets.toml
 .secrets.toml
