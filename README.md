@@ -26,7 +26,6 @@ Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
-
 ## Project Structure
 
 ```
@@ -40,6 +39,12 @@ streamlit run app.py
 ├── requirements.txt         # Python dependencies
 └── README.md               # This file
 ```
+
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/855cd0bf-925d-4e0b-867b-bbbec8cad16b" />
+![image](https://github.com/user-attachments/assets/d8c50f3d-1251-4c11-bb8c-3c72c27ad5ea)
+![image](https://github.com/user-attachments/assets/96bcf24c-7679-4975-ab40-7e404f317fa8)
+
+
 
 ## Mathematical Foundations
 
